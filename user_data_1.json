@@ -1,3 +1,6 @@
+create a pyqt5 which having a  user data containing user id and three keys and three values ,if i enter user id in input text box,three values should be shown if i select a filed print the value
+
+
 {
     "10200": {
         "1": "9573233105",
